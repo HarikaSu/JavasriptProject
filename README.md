@@ -1,0 +1,2 @@
+# JavasriptProject
+projects purpose
